@@ -1,0 +1,22 @@
+.grid
+{
+
+}
+.grid .col
+{
+	float:left;
+}
+.colx3 .col 
+{
+	width:28%;
+	margin-right:5%;
+}
+.colx3 .col.last{ margin-right:0}
+.colx4 .col 
+{
+	width:25%;
+}
+.colx2 .col 
+{
+	width:50%;
+}
